@@ -1,5 +1,5 @@
 # PCA
-First step for hiring process at Elucidata
+First step for hiring process in Elucidata
 
 ## Introduction
 In this assignment i'm suppose to build a PCA package either in R or Python which can be able to plot PC1 vs PC2 with desired data cleaning. 
