@@ -1,0 +1,14 @@
+Package: PCA
+Type: Package
+Title: PCA plot
+Version: 1.0
+Date: 2018-10-25
+Author: Rishabh Ojha
+Maintainer: Rishabh Ojha <rishabhojha1998@gmail.com>
+Description: Principal component analysis of the given input dataframe, 
+    and a nice PCA plot of the data.
+Depends: ggfortify, cowplot, ggplot2 (>= 2.0.0)
+License: MIT
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.1.0
