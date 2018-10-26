@@ -7,7 +7,7 @@
 #' @export
 
 
-PCAplot<- function(gene,meta){
+PCA<- function(gene,meta){
   sample<- colnames(gene)[3:ncol(gene)]
   for (i in sample) {
     gene[[i]]<- as.numeric(gene[[i]])
