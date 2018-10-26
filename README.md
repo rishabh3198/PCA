@@ -19,7 +19,7 @@ Input/output for PCAplot:
 * Get the dev version from github: `devtools::install_github("rishabh3198/PCA")`
 
 While installing it will ask,
-* Enter one or more numbers separated by spaces, or an empty line to cancel
+->Enter one or more numbers separated by spaces, or an empty line to cancel
   1:
 
 Enter the number corresponding to None in answer and the package installation will continues.
